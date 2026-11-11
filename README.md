@@ -52,5 +52,22 @@ Database queries, data manipulation, and database concepts.
 - **LinkedIn:** https://www.linkedin.com/in/harini-d-55b095386/
 
 ---
+## 💻 My Tech Stack
+
+**Languages**
+- Python
+- C++
+- SQL
+
+**Tools**
+- GitHub
+- Visual Studio Code
+- MySQL
+
+**Areas**
+- Artificial Intelligence
+- Machine Learning
+- Data Structures and Algorithms
 
 ⭐ Thanks for visiting my GitHub profile!
+
